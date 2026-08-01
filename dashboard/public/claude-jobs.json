@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T06:18:45.062085+00:00",
-  "totalJobs": 102,
+  "lastUpdated": "2026-08-01T06:05:06.269802+00:00",
+  "totalJobs": 100,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -1884,27 +1884,6 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
-      "id": "anth-5146298008",
-      "company": "Anthropic",
-      "position": "Staff Software Engineer, Billing Platform",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "remote": false,
-      "salary": "",
-      "description": "Anthropic exists to ensure the world safely navigates the transition through transformative AI. That work is funded by commercial revenue — and every dollar of it runs through Billing Platform. We build and operate the infrastructure that turns product usage into revenue across everything Anthropic...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5146298008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5146298008",
-      "postedAt": "2026-03-10T13:14:01-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Rails",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
       "id": "anth-5140405008",
       "company": "Anthropic",
       "position": "Applied AI Architect, Government Technology",
@@ -2050,28 +2029,6 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5096878008",
       "postedAt": "2026-01-26T16:58:37-05:00",
       "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5074908008",
-      "company": "Anthropic",
-      "position": "Staff+ Software Engineer, Safeguards Infrastructure ",
-      "location": "London, UK",
-      "remote": false,
-      "salary": "",
-      "description": "We are looking for software engineers to help build the foundational pieces for safety, oversight and intervention mechanisms of our AI systems. As a software engineer on the Safeguards team, you will work to monitor models, prevent misuse, and ensure user well-being. This role will focus on...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
-      "postedAt": "2026-01-21T12:42:00-05:00",
-      "tags": [
-        "TypeScript",
-        "Python",
         "Rust",
         "AWS",
         "Claude Code",
